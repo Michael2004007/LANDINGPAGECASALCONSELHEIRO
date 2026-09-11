@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+.railway/
+.DS_Store
+*.log
