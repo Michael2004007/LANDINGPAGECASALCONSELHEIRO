@@ -23,7 +23,7 @@
 - Sección de experiencia con fotografías reales de conferencias, capacitaciones y grupos.
 - Galería ampliada con fotografías entregadas por el cliente.
 - Sección de publicaciones con los libros *Encontros e Vazios* y *Sucesso e Negociação*.
-- Sección audiovisual con tres videos verticales y controles de reproducción.
+- Sección audiovisual con nueve videos verticales y controles de reproducción.
 - Preguntas frecuentes y cierre comercial con llamadas a la acción.
 
 ## Diseño y experiencia
@@ -50,7 +50,7 @@
 
 - 17 fotografías recibidas se prepararon como recursos del proyecto.
 - Se seleccionaron retratos, fotografías de escenario, talleres, públicos, grupos y libros para construir una narrativa visual real.
-- Se incorporaron los tres videos recibidos en formato MP4.
+- Se incorporaron los nueve videos recibidos en formato MP4.
 - El servidor admite solicitudes parciales de video (`HTTP 206`) para reproducir, pausar y adelantar los clips con eficiencia.
 
 ## Correcciones aplicadas
@@ -64,14 +64,14 @@
 
 ## Validaciones realizadas
 
-- 184 textos bilingües comprobados en portugués y español.
+- 190 textos bilingües comprobados en portugués y español.
 - Enlaces internos y destinos de navegación verificados.
 - Destinos de WhatsApp diferenciados y comprobados para Cristian y Kelly.
 - Referencias de fotografías y videos comprobadas sin archivos faltantes.
 - Identificadores HTML duplicados: ninguno.
 - Revisión visual en escritorio y en una pantalla móvil de 390 × 844 px.
 - Desbordamiento horizontal en móvil: ninguno.
-- Los tres videos cargan con dimensiones y duración válidas.
+- Los nueve videos cargan con dimensiones y duración válidas.
 - Respuestas de video verificadas con `Content-Type: video/mp4`, `Accept-Ranges: bytes`, respuestas parciales `206` y manejo de rango inválido `416`.
 
 ## Publicación
@@ -79,3 +79,7 @@
 - Recursos gráficos y videos almacenados en GitHub.
 - Código y estilos actualizados en la rama `main`.
 - Despliegue de producción realizado en Railway desde el último commit del diseño.
+
+## Ampliación audiovisual del 12 de septiembre
+
+Se añadieron los seis videos de EXPERIENCIAS.rar y se reemplazaron las etiquetas numeradas por frases basadas en las escenas y los textos visibles. Encabezado: «Conhecimento que inspira». Detalle en ACTUALIZACION_VIDEOS_2026-09-12.md.
