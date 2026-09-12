@@ -64,7 +64,7 @@
 
 ## Validaciones realizadas
 
-- 185 textos bilingües comprobados en portugués y español.
+- 184 textos bilingües comprobados en portugués y español.
 - Enlaces internos y destinos de navegación verificados.
 - Destinos de WhatsApp diferenciados y comprobados para Cristian y Kelly.
 - Referencias de fotografías y videos comprobadas sin archivos faltantes.
@@ -79,4 +79,3 @@
 - Recursos gráficos y videos almacenados en GitHub.
 - Código y estilos actualizados en la rama `main`.
 - Despliegue de producción realizado en Railway desde el último commit del diseño.
-
